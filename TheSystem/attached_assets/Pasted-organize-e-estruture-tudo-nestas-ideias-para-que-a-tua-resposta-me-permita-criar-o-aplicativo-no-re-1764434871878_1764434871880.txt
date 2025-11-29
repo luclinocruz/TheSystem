@@ -1,0 +1,32 @@
+organize e estruture tudo nestas ideias, para que a tua resposta me permita criar o aplicativo no replit pessoalmente, um aplicativo saas que funde tudo nestas ideias de modo organizado e de modo a aumentar ao maximo o valor entregado para monetizar.
+
+Um sass um aplicativo de desenvolvimento pessoal, com a sua própria inteligência artificial o "sistema"
+Será o gemini ou o chatgpt, que vai gerar missões vai gerar tarefas e monitorar tarefas, elas são compativeis com os interesses e gostos e necessidades dos utilizadores, o app vai conter a tela de status e skill, um sistema de pontos e tudo que um manga de sistema tem, referencia: "the gamer" e "Solo Leveling". Um personagem que será o user criado usando informação do utilizador , que ele fornece, e usar inspiração de mangas de cultivo.
+
+18/10, 14:37] Luclino Cruz: Ideia
+
+Que tal criar produtos de desenvolvimento pessoal para o publico nerd?
+Ensinar eles a mudar de vida usando princípios milenares, biblicos e subliminares presentes nos proprios animes?
+[18/10, 17:03] Luclino Cruz: Metodo protagonista, Mc ou algo assim,  solo Leveling
+Um metodo voltado ao desenvolvimento pessoal do nerd , baseado em gamificacão e sistematização. 
+Como nos mangas
+
+
+Dentro do sistema criar sub produtos (uma  aba?)
+	• Skill grinding, desenvolvendo habilidades no player 
+
+
+🚀 Aplicativo com ia🚀 jornaling / Maping
+
+Gere um prompt, instruindo uma IA a criar um aplicativo android.
+Um prompt extremamente técnico e detalhado, e muito bem estruturado.
+O Aplicativo deverá servir de Jornaling, Maping e Training(Abra Acting), usando inteligencia Artificial.
+O objetivo é ajudar o usuário a saber exatamente o que ele está a fazer, os resultados reais e provaveis, que teve, tem e poderá ter, e ajudar o usuário a chegar no objetivo por meio da desconstrução do objetivo em pequenos e mais simples paços progressivos e pequenos e realmente possíveis de se executar, para que com execução consiste esse resultado venha as suas mãos.
+
+
+O journaling deve ser possível por escrita, do próprio utilizador e estimulado pela IA com perguntas chaves, que vai facilitar o usuário de desenvolver o hábito de registrar o que fez no dia, para assim gerar ou alimentar o Maping de onde a ia recebe informações do "paço" do user em direção ao objetivo.
+
+O Maping deve ser bem visual e também descritivo, ajudando o usuário a entender, o seu próprio perfil, suas direções, onde eles gastam mais tempo, o que ele mais faz, seus defeitos etc, tudo que ele deve saber de si mesmo com base no seu jornal pessoal, que o está a levar para perto ou para longe do seu objetivo, o sistema tem de ser honesto.
+O app deve ser muito visual, possuir números, desenhos e ou gráficos ilustrativos e outros mecanismos para gerar clareza no usuário, sobre onde está, para onde está indo.
+
+Acting, este é o lugar que com base no que o usuário quer alcançar e onde ele está, vai desenvolver os planos e literalmente mentorar ele, melhor que pais, professores,treinadores, e mentores, a ia, será especialista em tudo o que ele(user) precisa para sair do ponto A ao objetivo B, sabendo construir o método e acompanhar, e até adaptar de modo a se adequar ao perfil e o psicológico de cada utilizador.

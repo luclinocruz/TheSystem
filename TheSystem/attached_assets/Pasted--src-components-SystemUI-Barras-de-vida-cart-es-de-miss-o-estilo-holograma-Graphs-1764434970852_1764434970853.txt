@@ -1,0 +1,48 @@
+/src
+  /components
+    /SystemUI (Barras de vida, cartões de missão estilo holograma)
+    /Graphs (Componentes de Mapping)
+  /services
+    ai_manager.js (Conexão com Gemini API)
+    quest_generator.js (Lógica de criar missões)
+  /context
+    PlayerContext.js (Guarda XP, Stats, Inventário)
+
+#### 3. O Prompt Técnico para IA
+
+Para criar o "cérebro" do aplicativo (o backend que gera missões), copia e cola este prompt no ChatGPT ou na própria IA do Replit para gerar a lógica do servidor:
+
+```markdown
+**Prompt de Engenharia para "O Sistema" (Backend & IA Logic)**
+
+**Objetivo:** Criar a lógica de backend para um aplicativo Android/Web de desenvolvimento pessoal gamificado chamado "The System", inspirado em Solo Leveling.
+
+**Tech Stack:** Node.js, Express, Firebase (Firestore), Google Gemini API.
+
+**Persona da IA ("O Sistema"):**
+A IA deve agir como uma entidade fria, objetiva, mas focada na evolução do usuário ("O Jogador"). Respostas curtas, estilo RPG, uso de termos como "Quest", "Penalidade", "Recompensa", "Sincronização".
+
+**Funcionalidades Chave para Implementar:**
+
+1.  **Módulo JOURNALING & MAPPING (Análise de Dados):**
+    * Crie uma função que receba um texto de diário do usuário.
+    * Use a Gemini API para analisar o sentimento e extrair "Hábitos Chave".
+    * A IA deve categorizar o dia do usuário em uma pontuação de "Produtividade" e "Disciplina" (0-100) e salvar no banco de dados para gerar gráficos.
+    * *Input:* "Hoje comi mal e não treinei, mas li 30 paginas."
+    * *Output Esperado (JSON):* `{ "stats_change": { "vitalidade": -1, "inteligencia": +2 }, "mapping_log": "Falha na dieta detectada." }`
+
+2.  **Módulo ACTING (Gerador de Missões - Reverse Engineering):**
+    * Crie um algoritmo que receba um "Objetivo Grande" (ex: "Correr uma maratona").
+    * Peça à IA para quebrar isso em "Daily Quests" progressivas (ex: Semana 1: Caminhar 2km).
+    * As missões devem ter: Título, Dificuldade (Rank E a S), XP e Recompensa (Stat).
+
+3.  **Gamification Engine:**
+    * Lógica de cálculo de XP: `XP_Necessario = Nivel * 100 * 1.5`.
+    * Sistema de punição: Se o usuário não marcar "Complete" na missão diária até 00:00, ativar "Penalty Quest" (ex: "Sobrevivência: Faça 50 polichinelos agora").
+
+Por favor, gere o código das Cloud Functions ou rotas da API para lidar com estas 3 funcionalidades.
+
+### Resumo para Ação
+1.  Copia o código React acima para um ficheiro no Replit.
+2.  Usa o prompt acima para criar a parte "inteligente" que falta.
+3.  Foca-te na **UI Escura e Neon** (já incluída no código), pois é isso que atrai o público "nerd/Solo Leveling".
